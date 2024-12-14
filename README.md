@@ -9,8 +9,5 @@ Automater ~ Simplify your life, one task at a time!...
 - **QR code generation**
 
 
-## Features
-- Save time and increase productivity.
-- Easy to use for everyone.
-- Built with Python for flexibility and scalability.
+
 
